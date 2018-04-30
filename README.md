@@ -28,17 +28,18 @@ HTTPS vérifie ainsi l’identité du site web auquel le navigateur accède grâ
 
 13.  **Qui est Richard Stallman ?**
 
- 14.  **Comment fonctionnent les bang de Duck Duck Go?**
+14.  **Comment fonctionnent les bang de Duck Duck Go?**
  
- 15.  **Qui est Marissa Mayer ?**
+15.  **Qui est Marissa Mayer ?**
  
- 16.  **Qu’est-ce qu’une attaque “brute force” ?**
+16.  **Qu’est-ce qu’une attaque “brute force” ?**
  
- 17.  **Qui est Linus Torvalds ? Quels sont ses plus grands développements ?**
+17.  **Qui est Linus Torvalds ? Quels sont ses plus grands développements ?**
  
- 18.  **Combien coûte un nom de domaine ?**
+18.  **Combien coûte un nom de domaine ?**
  
- 19.  **Quels sont les différents services d'emailing disponibles ? Un client vous envoyer des emails automatiquement depuis son site web (contact, confirmation...), quel service allez-vous utiliser et pourquoi ?**
+19.  **Quels sont les différents services d'emailing disponibles ? Un client vous envoyer des emails automatiquement
+ depuis son site web (contact, confirmation...), quel service allez-vous utiliser et pourquoi ?**
     
 20.  **Quelle est votre adress IP actuelle ? Et celle de votre smartphone ?**
     
@@ -106,21 +107,21 @@ Les différents réseaux d'internet sont reliés entre eux physiquement par cabl
 49.  **En quoi consiste la méthode Pomodoro ? Avantages et inconvénients ?**
 
 50.  **Qu’est-ce qu’Amazon Web Services - AWS ?**
-    (Source: Wikipedia)  
-    Amazon Web Services (AWS) est une division d'Amazon.com, dédiée aux services de cloud computing pour les entreprises
-    et particuliers.  
-    En 2015, AWS génère 7 % du chiffre d'affaires d'Amazon et représente la première source de profit de l'entreprise.  
-    Lancé officiellement en 2006 par Andy Jassy  
-    Amazon Web Services fournit des services en lignes à d'autres sites internet ou applications clientes  
-    En juin 2007, Amazon revendiquait plus de 330 000 développeurs ayant souscrit pour l'utilisation des Amazon Web Services  
-    Amazon Web Services occupe le premier rang des acteurs du cloud computing, avec 31 % de parts de marché  
-    Parmi ses grands clients figurent la NASA, Netflix et le service de renseignement extérieur américain (CIA)
-    
+Amazon Web Services (AWS) est une division d'Amazon.com, dédiée aux services de cloud computing 
+pour les entreprises et particuliers.  
+En 2015, AWS génère 7 % du chiffre d'affaires d'Amazon et représente la première source de profit de l'entreprise.  
+Lancé officiellement en 2006 par Andy Jassy  
+Amazon Web Services fournit des services en lignes à d'autres sites internet ou applications clientes  
+En juin 2007, Amazon revendiquait plus de 330 000 développeurs ayant souscrit pour l'utilisation des Amazon Web Services  
+Amazon Web Services occupe le premier rang des acteurs du cloud computing, avec 31 % de parts de marché  
+Parmi ses grands clients figurent la NASA, Netflix et le service de renseignement extérieur américain (CIA)
+(Source: Wikipedia)
+
 51.  **Qui est Sundar Pichai ?** 
-    (Source: Wikipedia)  
-    Pichai Sundararajan, né à Chennai en Inde le 12 juillet 1972, président-directeur général de Google depuis le 2 octobre
-    2015 à la suite de la restructuration de Google.
-    
+Pichai Sundararajan, né à Chennai en Inde le 12 juillet 1972, président-directeur général de Google depuis le 2 octobre
+2015 à la suite de la restructuration de Google.
+ (Source: Wikipedia)
+ 
 52.  **Quelle est la répartition des systèmes d'exploitation pour les pc personnels ?**
 (plusieurs sources car beaucoup de résultats différents selon la période ou l'organisme de statistique ZDNet moyennement sûr et netmarketshare spécialisé dans les stats internet)
 
@@ -133,15 +134,12 @@ Les différents réseaux d'internet sont reliés entre eux physiquement par cabl
 Une cheatsheet, littéralement, "anti sèche", est une feuille/un document (papier ou numérique) comportant des notes concernant un domaine ou une dicipline, servant de support d'apprentissage. Ces notes sont le plus souvent succintes contenant l'essentiel de ce qui aidera le possesseur du document à se remémorer une plus grande quantité d'informations.
 
 54.  **Combien de requêtes y-a-t-il sur Google toutes les minutes ?**
-
 Selon le site d'information anglais "dailymail" il y aurait eu en 2017 une moyenne de 3294420 requêtes par minute.
 
 55.  **Qu’est-ce que les joies du code ?**
-
 Les joies du code est un terme définissant une catégorie de "meme" ( images a but humoristiques et satyriques ) ayant rapport avec la programmation et le développement.
 
 56.  **Qui sont Larry Page et Sergey Brin ?**
-
 Larry Page et Sergey Brin sont les fondateur de l'entreprise google. Ayant débutés leurs activités en 1998 avec la création du moteur de recherche du meme nom. L'un de ces deux hommes a aujourd'hui les cheuveux gris.
 
 57.  **Convertissez en binaire 2, 5, 12, 25, 512**
@@ -149,7 +147,6 @@ Larry Page et Sergey Brin sont les fondateur de l'entreprise google. Ayant débu
 58.  **Convertissez en hexadécimal 2, 5, 12, 25, 512**
 
 59.  **Convertissez du binaire vers le système “classique” (base 10) 100, 1011, 11111, 11110110101**
-
 -   100 en binaire (base 2) = 4 en décimal (base 10)
 -   1011 en binaire (base 2) = 11 en décimal (base 10)
 -   11111 en binaire (base 2) = 31 en décimal (base 10)
