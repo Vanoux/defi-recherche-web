@@ -13,13 +13,9 @@
 8.  **Qui est Steve Wozniak ?**
 9.  **D'où vient l'expression "bug informatique" ?** 
 Le mot anglais bug appartient au jargon des ingénieurs de matériel et représentant les problèmes qui y survenaient. L’utilisation du terme pour décrire les défauts de systèmes mécaniques date d’au moins avant les années 1870.
-
 Le terme « bogue » est référencé dans le dictionnaire Larousse en ligne avec pour définition «Défaut de conception ou de réalisation d'un programme informatique, qui se manifeste par des anomalies de fonctionnement de l'ordinateur.»
-
 Le terme est parfois faussement attribué à Grace Hopper. Elle constata dans son journal d’entretien, conservé à la Smithsonian Institution, en date du 9 septembre 1947, 15 h 45, que deux contacts d’un relais causaient le mauvais fonctionnement du Harvard Mark II, l’un des premiers ordinateurs électromécaniques.
-
 Hopper ne trouva pas le bug, comme elle le reconnaissait volontiers. Les opérateurs qui l'ont trouvé plus tard, y compris William « Bill » Burke, du laboratoire d'armes naval étaient familiers avec le terme d'ingénierie et amusés ont gardé l'insecte avec l’annotation "premier cas réel de bogue trouvé."
-
 Source:  [https://fr.wikipedia.org/wiki/Bug_(informatique)](https://fr.wikipedia.org/wiki/Bug_(informatique))
 
 10.  **Qui est Aaron Swartz ?**
