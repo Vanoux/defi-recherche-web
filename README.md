@@ -64,7 +64,9 @@ De cette manière chaque ordinateur du réseau est connecté à tous les autres.
 51)  Qui est Sundar Pichai ?
 52) Quelle est la répartition des systèmes d'exploitation pour les pc personnels ?
 53) Qu'est-ce qu'une Cheatsheet ?
+- une cheatsheet, littéralement, "anti sèche", est une feuille/un document (papier ou numérique) comportant des notes concernant un domaine ou une dicipline, servant de support d'apprentissage. Ces notes sont le plus souvent succintes contenant l'essentiel de ce qui aidera le possesseur du document à se remémorer une plus grande quantité d'informations.
 54) Combien de requêtes y-a-t-il sur Google toutes les minutes ?
+- Selon le site d'information anglais "dailymail" il y aurait eu en 2017 une moyenne de 3294420 requêtes par minute.
 55) Qu’est-ce que les joies du code ?
 56) Qui sont Larry Page et Sergey Brin ?
 57) Convertissez en binaire 2, 5, 12, 25, 512
