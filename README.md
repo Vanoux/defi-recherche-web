@@ -59,7 +59,33 @@ automatiquement depuis son site web (contact, confirmation...), quel service all
 49) En quoi consiste la méthode Pomodoro ? Avantages et inconvénients ?
 50) Qu’est-ce qu’Amazon Web Services - AWS ?  
 (Source: Wikipedia)  
-Amazon Web Services (AWS) est une division du groupe américain de commerce électronique Amazon.com, dédiée aux services de cloud computing pour les entreprises et particuliers. En 2015, AWS génère 7 % du chiffre d'affaires d'Amazon et représente la première source de profit de l'entreprise.  
+Amazon Web Services (AWS) est une division  d'Amazon.com, dédiée aux services de cloud computing pour les entreprises et particuliers.  
+En 2015, AWS génère 7 % du chiffre d'affaires d'Amazon et représente la première source de profit de l'entreprise.  
+Lancé officiellement en 2006 par Andy Jassy  
+Amazon Web Services fournit des services en lignes à d'autres sites internet ou applications clientes  
+En juin 2007, Amazon revendiquait plus de 330 000 développeurs ayant souscrit pour l'utilisation des Amazon Web Services  
+Amazon Web Services occupe le premier rang des acteurs du cloud computing, avec 31 % de parts de marché  
+Parmi ses grands clients figurent la NASA, Netflix et le service de renseignement extérieur américain (CIA)  
+Liste des services AWS:  
+* Amazon Elastic Compute Cloud (EC2), fournissant des serveurs virtuels évolutifs utilisant Xen.
+* Amazon Virtual Private Cloud, fournissant un réseau virtuel privé au sein d'AWS.
+* Amazon Elastic Block Store (EBS), fournissant un niveau de blocs persistants pour les volumes de stockage EC2.
+* Amazon Simple Storage Service (S3), fournissant un stockage basé sur les services web.
+* Amazon Glacier, fournissant un stockage basé sur les services web. Ce service est moins dispendieux que Amazon S3 et est destiné aux données rarement accédées.
+* Amazon Simple Queue Service (SQS), fournissant une file de messages hébergée pour les applications web.
+* Amazon Simple Email Service (SES), service d'envoi en nombre et transactionnel d'emails.
+* Amazon Mechanical Turk (Mturk), gérant des petites unités de travail distribué à de nombreuses personnes.
+* Alexa Web Services, fournissant des données de trafic, des vignettes et d'autres informations à propos des sites web.
+* Amazon Associates Web Service (A2S, anciennement Amazon E-Commerce Service ou ECS), fournissant un accès aux données produit d'Amazon et des données de commerce électronique.
+* Amazon Historical Pricing, fournissant un accès à l'historique des prix d'Amazon pour ses affiliés.
+* Amazon Flexible Payments Service (FPS), actuellement en beta fermée19, fournissant une interface pour le micropaiement.
+* Amazon DevPay, actuellement en beta fermée, est un système de facturation et de gestion de comptes pour les applications que les développeurs ont conçu avec les Amazon Web Services.
+* Amazon SimpleDB, actuellement en beta fermée, permet aux développeurs d'exécuter des requêtes sur des données structurées. Il fonctionne de concert avec AC2 et S3 pour fournir "les fonctionnalités d'un noyau de base de données"
+* Amazon AWS Authentication est un service implicite, l'infrastructure d'authentification utilisée pour authentifier l'accès aux différents services.
+* Amazon Fulfillment Web Service fournit une API pour les vendeurs pour expédier des articles vers et depuis Amazon.
+* Amazon CloudFront21, un Content Delivery Network (CDN) pour distribuer des objets stockés sur S3 vers un emplacement proche de l'appelant.
+* AWS Management Console (AWS Console), est une interface point and click basé sur le web pour gérer et surveiller les infrastructures Amazon, incluant EC2, EBS, S3, and SQS.
+* Amazon Prime Air, est un service de livraison par voie aérienne.
 
 51)  Qui est Sundar Pichai ?
 52) Quelle est la répartition des systèmes d'exploitation pour les pc personnels ?
