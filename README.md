@@ -66,36 +66,26 @@ Amazon Web Services fournit des services en lignes à d'autres sites internet ou
 En juin 2007, Amazon revendiquait plus de 330 000 développeurs ayant souscrit pour l'utilisation des Amazon Web Services  
 Amazon Web Services occupe le premier rang des acteurs du cloud computing, avec 31 % de parts de marché  
 Parmi ses grands clients figurent la NASA, Netflix et le service de renseignement extérieur américain (CIA)  
-Liste des services AWS:  
-  * Amazon Elastic Compute Cloud (EC2), fournissant des serveurs virtuels évolutifs utilisant Xen.
-  * Amazon Virtual Private Cloud, fournissant un réseau virtuel privé au sein d'AWS.
-  * Amazon Elastic Block Store (EBS), fournissant un niveau de blocs persistants pour les volumes de stockage EC2.
-  * Amazon Simple Storage Service (S3), fournissant un stockage basé sur les services web.
-  * Amazon Glacier, fournissant un stockage basé sur les services web. Ce service est moins dispendieux que Amazon S3 et est destiné aux données rarement accédées.
-  * Amazon Simple Queue Service (SQS), fournissant une file de messages hébergée pour les applications web.
-  * Amazon Simple Email Service (SES), service d'envoi en nombre et transactionnel d'emails.
-  * Amazon Mechanical Turk (Mturk), gérant des petites unités de travail distribué à de nombreuses personnes.
-  * Alexa Web Services, fournissant des données de trafic, des vignettes et d'autres informations à propos des sites web.
-  * Amazon Associates Web Service (A2S, anciennement Amazon E-Commerce Service ou ECS), fournissant un accès aux données produit d'Amazon et des données de commerce électronique.
-  * Amazon Historical Pricing, fournissant un accès à l'historique des prix d'Amazon pour ses affiliés.
-  * Amazon Flexible Payments Service (FPS), actuellement en beta fermée19, fournissant une interface pour le micropaiement.
-  * Amazon DevPay, actuellement en beta fermée, est un système de facturation et de gestion de comptes pour les applications que les développeurs ont conçu avec les Amazon Web Services.
-  * Amazon SimpleDB, actuellement en beta fermée, permet aux développeurs d'exécuter des requêtes sur des données structurées. Il fonctionne de concert avec AC2 et S3 pour fournir "les fonctionnalités d'un noyau de base de données"
-  * Amazon AWS Authentication est un service implicite, l'infrastructure d'authentification utilisée pour authentifier l'accès aux différents services.
-  * Amazon Fulfillment Web Service fournit une API pour les vendeurs pour expédier des articles vers et depuis Amazon.
-  * Amazon CloudFront21, un Content Delivery Network (CDN) pour distribuer des objets stockés sur S3 vers un emplacement proche de l'appelant.
-  * AWS Management Console (AWS Console), est une interface point and click basé sur le web pour gérer et surveiller les infrastructures Amazon, incluant EC2, EBS, S3, and SQS.
-  * Amazon Prime Air, est un service de livraison par voie aérienne.
-
-51)  Qui est Sundar Pichai ?
+51)  Qui est Sundar Pichai ?  
+(Source: Wikipedia)  
+Pichai Sundararajan, né à Chennai en Inde le 12 juillet 1972, président-directeur général de Google depuis le 2 octobre 2015 à la suite de la restructuration de Google.  
 52) Quelle est la répartition des systèmes d'exploitation pour les pc personnels ?
+(plusieurs sources car beaucoup de résultats différents selon la période ou l'organisme de statistique ZDNet moyennement sûr et netmarketshare spécialisé dans les stats internet)  
+  - environ 88% pour Windows
+  - environ 8% pour MacOS
+  - environ 2.5% pour Linux
+  - le reste pour les autres OS comme BSD ou ChromeOS
 53) Qu'est-ce qu'une Cheatsheet ?
 54) Combien de requêtes y-a-t-il sur Google toutes les minutes ?
 55) Qu’est-ce que les joies du code ?
 56) Qui sont Larry Page et Sergey Brin ?
 57) Convertissez en binaire 2, 5, 12, 25, 512
 58) Convertissez en hexadécimal 2, 5, 12, 25, 512
-59) Convertissez du binaire vers le système “classique” (base 10) 100, 1011, 11111, 11110110101
+59) Convertissez du binaire vers le système “classique” (base 10) 100, 1011, 11111, 11110110101  
+  - 100 en binaire (base 2) = 4 en décimal (base 10)  
+  - 1011 en binaire (base 2) = 11 en décimal (base 10)  
+  - 11111 en binaire (base 2) = 31 en décimal (base 10)  
+  - 11110110101 en binaire (base 2) = 1973 en décimal (base 10)  
 60) Quelles sont les nouveautés apportées par le HTML 5 ?
 61) Qu’est-ce que ECMAScript 2015 ? 
 62) Quelles nouveautés par rapport à la version précédente? Quelles différences avec ES 6 ?
