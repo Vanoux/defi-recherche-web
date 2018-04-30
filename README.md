@@ -57,9 +57,9 @@ automatiquement depuis son site web (contact, confirmation...), quel service all
 47) Qu’est-ce que KISS ?
 48) Un antivirus est-il utile sous Windows ? Sous Mac ? Sous Linux ?
 49) En quoi consiste la méthode Pomodoro ? Avantages et inconvénients ?
-50) Qu’est-ce qu’Amazon Web Services - AWS ?
-(Source: Wikipedia)
-Amazon Web Services (AWS) est une division du groupe américain de commerce électronique Amazon.com, dédiée aux services de cloud computing pour les entreprises et particuliers. En 2015, AWS génère 7 % du chiffre d'affaires d'Amazon et représente la première source de profit de l'entreprise.
+50) Qu’est-ce qu’Amazon Web Services - AWS ?  
+(Source: Wikipedia)  
+Amazon Web Services (AWS) est une division du groupe américain de commerce électronique Amazon.com, dédiée aux services de cloud computing pour les entreprises et particuliers. En 2015, AWS génère 7 % du chiffre d'affaires d'Amazon et représente la première source de profit de l'entreprise.  
 
 51)  Qui est Sundar Pichai ?
 52) Quelle est la répartition des systèmes d'exploitation pour les pc personnels ?
