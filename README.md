@@ -34,10 +34,6 @@ Aaron Swartz a eu un rôle décisif dans l'essor de l'Internet, tant sur le plan
 
 Écrivain prolifique sous différentes formes (blogs, pamphlets politiques, textes de conférences), l'ouvrage Celui qui pourrait changer le monde (parution en français en 2017) rassemble ses principaux textes qui reflètent son engagement intellectuel sur des enjeux sociétaux dont le droit d'auteur, la liberté d'accès des connaissances et des savoirs dont les publications scientifiques ou la transparence en politique.
 
-Il a étendu ses réflexions dans le domaine de la sociologie, l'éducation civique et politique.
-
-Il se suicide le 11 janvier 2013 à l'âge de 26 ans1 dans son appartement. Son procès fédéral en lien avec des accusations de fraude électronique devait débuter le mois suivant.
-
 Source: https://fr.wikipedia.org/wiki/Aaron_Swartz
 11) Qu’est-ce que le projet GNU ?
 12) Quelles sont les différences entre le Http et le
