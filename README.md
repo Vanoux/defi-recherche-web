@@ -25,19 +25,21 @@ Hopper ne trouva pas le bug, comme elle le reconnaissait volontiers. Les opérat
 Source: https://fr.wikipedia.org/wiki/Bug_(informatique)
 
 10) Qui est Aaron Swartz ?
-
 Aaron Swartz, né le 8 novembre 1986 à Chicago et mort le 11 janvier 2013 à New York1, était un informaticien, écrivain, militant politique et hacktiviste américain.
-
 Fervent partisan de la liberté numérique, il consacra sa vie à la défense de la « culture libre », convaincu que l'accès à la connaissance étant un moyen d'émancipation et de justice.
-
 Aaron Swartz a eu un rôle décisif dans l'essor de l'Internet, tant sur le plan technique (notamment en développant le format de flux RSS et en participant à l'invention des licences Creative Commons (CC) que sur le plan de la gouvernance juridique et politique en manifestant contre le projet de la loi SOPA (Stop Online Piracy Act).
-
 Écrivain prolifique sous différentes formes (blogs, pamphlets politiques, textes de conférences), l'ouvrage Celui qui pourrait changer le monde (parution en français en 2017) rassemble ses principaux textes qui reflètent son engagement intellectuel sur des enjeux sociétaux dont le droit d'auteur, la liberté d'accès des connaissances et des savoirs dont les publications scientifiques ou la transparence en politique.
-
 Source: https://fr.wikipedia.org/wiki/Aaron_Swartz
 11) Qu’est-ce que le projet GNU ?
+Le projet GNU est un projet informatique dont les premiers développements ont été réalisés en janvier 1984 par Richard Stallman pour développer le système d’exploitation GNU. Le projet est maintenu par une communauté de hackers organisée en sous-projets. Chaque brique du projet est un logiciel libre utilisable de par sa nature dans des projets tiers, mais dont la finalité est de s’inscrire dans une logique cohérente, avec l’ensemble des sous-projets en vue de la réalisation d’un système d’exploitation complet et entièrement libre, et avec pour stratégie, l’utilisation de l’existant.
+https://fr.wikipedia.org/wiki/Projet_GNU
 12) Quelles sont les différences entre le Http et le
 Https ?
+Lorsque l’on visite une page Web, on s’aperçoit que l’adresse commence avec le texte suivant : http://. Cela signifie que la communication est en cours entre notre navigateur et le serveur mais qu’elle n’est pas sécurisée. C’est là qu’entre en jeu le « S » de HTTPS qui se traduit par « Security ». Un site débutant par le texte https:// protège votre connexion et empêche toute personne de venir jeter un œil sur votre conversation, entre votre ordinateur et le site web consulté.
+
+HTTPS vérifie ainsi l’identité du site web auquel le navigateur accède grâce à un certificat d’authentification. Généralisé sur les réseaux sociaux depuis seulement 6 ans, il est cependant déjà bien utilisé lorsqu’il s’agit de transactions financières en ligne, comme la banque en ligne ou le commerce électronique. C’est pourquoi il faut toujours veiller à ce détail avant de communiquer ses numéros de carte de crédit ou carte vitale sur un site lambda ! Une simple lettre peut faire toute la différence ! Notez cependant que le https à lui seul ne garanti pas la sécurité d’un site. Pour plus de sécurité, ne donnez vos informations personnelles que sur des sites de confiance.
+https://www.lesveilleursdunet.com/blog/communication-web/difference-entre-http-et-https/
+
 13) Qui est Richard Stallman ?
 14) Comment fonctionnent les bang de Duck Duck Go?
 15) Qui est Marissa Mayer ?
