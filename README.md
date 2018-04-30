@@ -37,9 +37,18 @@ automatiquement depuis son site web (contact, confirmation...), quel service all
 27) Trouvez un screenshot de la première version de Facebook
 28) Quelle est la répartition des systèmes d'exploitation pour les serveurs (uniquement) ?
 29) Qu'est-ce que le load balancing ?
+    Le load balancing, aussi appelé « répartition de charge » en français, est un ensemble de méthodes utilisé dans le monde informatique pour augmenter la rapidité de calcul
+    et optimiser l’utilisation de ses ressources informatiques.
 30) Qu’est-ce que l’Open Source ?
+    Un logiciel Open Source est un programme informatique dont le code source est distribué sous une licence permettant à quiconque de lire, modifier ou redistribuer ce logiciel.
 31) Qu’est-ce que le Bug Bounty ?
+    Un bug bounty est un programme proposé par de nombreux sites web et développeurs de logiciel qui permet à des personnes de recevoir reconnaissance et compensation
+    après avoir reporté des bugs, surtout ceux concernant des exploits et des vulnérabilités.
 32) Qu'est-ce qu'une adresse IP v4 ? Pourquoi parle-t-on aussi d'adresse IP v6 ?
+    IPv4 (Internet Protocol version 4) est la première version d'Internet Protocol (IP) à avoir été largement déployée, et qui forme encore en 2018 la base de la majorité des communications sur Internet, avec l'IPv6.
+    Elle est décrite dans la RFC 791 de septembre 1981, remplaçant la RFC 7601, définie en janvier 1980.
+    IPv6 est l'aboutissement des travaux menés au sein de l'IETF au cours des années 1990 pour succéder à IPv4 et ses spécifications ont été finalisées dans la RFC 24601 en décembre 1998.
+    IPv6 a été standardisé dans la RFC 82002 en juillet 2017.
 33) Combien coûte un serveur pour héberger mon site perso ?
 34) Qu’est-ce que le Cowboy coding ?
 35) Quelles sont les langages de programmation les plus plébiscités aujourd'hui ?
@@ -54,6 +63,9 @@ automatiquement depuis son site web (contact, confirmation...), quel service all
 44) Trouvez 5 entreprises qui recrutent sur Toulouse un développeur web junior
 45) Qui est Tim Berners-Lee ?
 46) Comment sont reliés les différents réseaux d'internet ?
+- Les différents réseaux d'internet sont reliés entre eux physiquement par cable à des NAPs (Points d'acces internet / Network acces points). Internet consiste en un réseau d'ordinateurs appartenants à des fournisseurs internet qui sont interconnectés à travers le monde, le plus souvent dans des grandes villes. ( Ces NAPs ou points d'acces réseau s'y trouvent )
+Internet est un rassemblement de réseaux d'entreprises qui par un commun accord ont choisis de communiquer entre eux.
+De cette manière chaque ordinateur du réseau est connecté à tous les autres.
 47) Qu’est-ce que KISS ?
 48) Un antivirus est-il utile sous Windows ? Sous Mac ? Sous Linux ?
 49) En quoi consiste la méthode Pomodoro ? Avantages et inconvénients ?
@@ -76,9 +88,14 @@ Pichai Sundararajan, né à Chennai en Inde le 12 juillet 1972, président-direc
   - environ 2.5% pour Linux
   - le reste pour les autres OS comme BSD ou ChromeOS
 53) Qu'est-ce qu'une Cheatsheet ?
+- une cheatsheet, littéralement, "anti sèche", est une feuille/un document (papier ou numérique) comportant des notes concernant un domaine ou une dicipline, servant de support d'apprentissage. Ces notes sont le plus souvent succintes contenant l'essentiel de ce qui aidera le possesseur du document à se remémorer une plus grande quantité d'informations.
 54) Combien de requêtes y-a-t-il sur Google toutes les minutes ?
+- Selon le site d'information anglais "dailymail" il y aurait eu en 2017 une moyenne de 3294420 requêtes par minute.
 55) Qu’est-ce que les joies du code ?
+- Les joies du code est un terme définissant une catégorie de "meme" ( images a but humoristiques et satyriques ) ayant rapport avec la programmation et le développement.
 56) Qui sont Larry Page et Sergey Brin ?
+- Larry Page et Sergey Brin sont les fondateur de l'entreprise google. Ayant débutés leurs activités en 1998 avec la création du moteur de recherche du meme nom.
+L'un de ces deux hommes a aujourd'hui les cheuveux gris.
 57) Convertissez en binaire 2, 5, 12, 25, 512
 58) Convertissez en hexadécimal 2, 5, 12, 25, 512
 59) Convertissez du binaire vers le système “classique” (base 10) 100, 1011, 11111, 11110110101  
@@ -93,6 +110,9 @@ Pichai Sundararajan, né à Chennai en Inde le 12 juillet 1972, président-direc
     application cross-platform et web application ?
 64)  Qu’est-ce que xkcd ?
 65) Qu’est-ce que Mr Robot ?
+    Mr. Robot est une série télévisée américaine de thriller dramatique créée par Sam Esmail. Il met en vedette Rami Malek en tant qu'Elliot Alderson, un ingénieur en cybersécurité et hacker qui a un trouble d'anxiété sociale et une dépression clinique.
+     Elliot est recruté par un anarchiste insurrectionnel connu sous le nom de "Mr. Robot", joué par Christian Slater, pour rejoindre un groupe de hacktivistes appelé "fsociety".
+    Le groupe vise à détruire tous les dossiers de dette en chiffrant les données financières du plus grand conglomérat du monde, E Corp.
 66) Qu’est-ce que OpQuast ?
 67) Quelles sont les communautés de dev de St-Go?
 68) Quels sont les prochains événements tech sur St-Go?
