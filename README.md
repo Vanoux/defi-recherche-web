@@ -1,5 +1,5 @@
 
-# defi-recherche-web
+# Défi-recherche-web
 
 69 questions, 4 par personne.
 
