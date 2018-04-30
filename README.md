@@ -14,7 +14,31 @@
 7) Qu'est-ce que Qwant ?
 8) Qui est Steve Wozniak ?
 9) D'où vient l'expression "bug informatique" ?
+Le mot anglais bug appartient au jargon des ingénieurs de matériel et représentant les problèmes qui y survenaient. L’utilisation du terme pour décrire les défauts de systèmes mécaniques date d’au moins avant les années 1870.
+
+Le terme « bogue » est référencé dans le dictionnaire Larousse en ligne avec pour définition «Défaut de conception ou de réalisation d'un programme informatique, qui se manifeste par des anomalies de fonctionnement de l'ordinateur.»
+
+Le terme est parfois faussement attribué à Grace Hopper. Elle constata dans son journal d’entretien, conservé à la Smithsonian Institution, en date du 9 septembre 1947, 15 h 45, que deux contacts d’un relais causaient le mauvais fonctionnement du Harvard Mark II, l’un des premiers ordinateurs électromécaniques.
+
+Hopper ne trouva pas le bug, comme elle le reconnaissait volontiers. Les opérateurs qui l'ont trouvé plus tard, y compris William « Bill » Burke, du laboratoire d'armes naval étaient familiers avec le terme d'ingénierie et amusés ont gardé l'insecte avec l’annotation "premier cas réel de bogue trouvé."
+
+Source: https://fr.wikipedia.org/wiki/Bug_(informatique)
+
 10) Qui est Aaron Swartz ?
+
+Aaron Swartz, né le 8 novembre 1986 à Chicago et mort le 11 janvier 2013 à New York1, était un informaticien, écrivain, militant politique et hacktiviste américain.
+
+Fervent partisan de la liberté numérique, il consacra sa vie à la défense de la « culture libre », convaincu que l'accès à la connaissance étant un moyen d'émancipation et de justice.
+
+Aaron Swartz a eu un rôle décisif dans l'essor de l'Internet, tant sur le plan technique (notamment en développant le format de flux RSS et en participant à l'invention des licences Creative Commons (CC) que sur le plan de la gouvernance juridique et politique en manifestant contre le projet de la loi SOPA (Stop Online Piracy Act).
+
+Écrivain prolifique sous différentes formes (blogs, pamphlets politiques, textes de conférences), l'ouvrage Celui qui pourrait changer le monde (parution en français en 2017) rassemble ses principaux textes qui reflètent son engagement intellectuel sur des enjeux sociétaux dont le droit d'auteur, la liberté d'accès des connaissances et des savoirs dont les publications scientifiques ou la transparence en politique.
+
+Il a étendu ses réflexions dans le domaine de la sociologie, l'éducation civique et politique.
+
+Il se suicide le 11 janvier 2013 à l'âge de 26 ans1 dans son appartement. Son procès fédéral en lien avec des accusations de fraude électronique devait débuter le mois suivant.
+
+Source: https://fr.wikipedia.org/wiki/Aaron_Swartz
 11) Qu’est-ce que le projet GNU ?
 12) Quelles sont les différences entre le Http et le
 Https ?
