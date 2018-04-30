@@ -2,12 +2,12 @@
 69 questions, 4 par personne.
 
 1) Par qui, quand, pourquoi et où a été inventé Internet ?
-2° Quelle est la différence entre le Web et Internet ?
+2) Quelle est la différence entre le Web et Internet ?
 3) Qu’est-ce que cela :
-i. 8.8.8.8
-ii. 192.168.0.1
-iii. 255.255.255.0
-iv. 127.0.0.1
+  i. 8.8.8.8
+  ii. 192.168.0.1
+  iii. 255.255.255.0
+  iv. 127.0.0.1
 4) Que sont le copyright et le copyleft ?
 5) Que sont les Creatives Commons ?
 6) Qui est Grace Hopper ?
