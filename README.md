@@ -68,7 +68,10 @@ De cette manière chaque ordinateur du réseau est connecté à tous les autres.
 54) Combien de requêtes y-a-t-il sur Google toutes les minutes ?
 - Selon le site d'information anglais "dailymail" il y aurait eu en 2017 une moyenne de 3294420 requêtes par minute.
 55) Qu’est-ce que les joies du code ?
+- Les joies du code est un terme définissant une catégorie de "meme" ( images a but humoristiques et satyriques ) ayant rapport avec la programmation et le développement.
 56) Qui sont Larry Page et Sergey Brin ?
+- Larry Page et Sergey Brin sont les fondateur de l'entreprise google. Ayant débutés leurs activités en 1998 avec la création du moteur de recherche du meme nom.
+L'un de ces deux hommes a aujourd'hui les cheuveux gris.
 57) Convertissez en binaire 2, 5, 12, 25, 512
 58) Convertissez en hexadécimal 2, 5, 12, 25, 512
 59) Convertissez du binaire vers le système “classique” (base 10) 100, 1011, 11111, 11110110101
